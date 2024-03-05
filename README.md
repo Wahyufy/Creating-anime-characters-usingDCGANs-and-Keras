@@ -1,3 +1,5 @@
+Creating anime characters using DCGANs and Keras
+
 # Author : Joseph Santarcangelo
 
 Assignment from IBM Academy @Infinite Learning
