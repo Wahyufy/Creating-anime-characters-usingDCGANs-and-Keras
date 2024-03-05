@@ -8,3 +8,4 @@ I have completed creating anime characters using DCGANs and Keras from Cognitive
 
 Tech Stack:
 - Python
+- Flask
